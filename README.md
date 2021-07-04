@@ -1,4 +1,6 @@
 # hello-world
+et ça commence
+
 Da start.
 
 Alphonse De Lamartine here, I'm so fluent in French it amazes me.
